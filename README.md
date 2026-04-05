@@ -14,7 +14,9 @@ A modern, responsive chat application designed for developers to communicate, te
 - Easy to customize and extend.
 
 ---
+## 🎨 Screenshot
 
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/014012ce-2fa6-44ba-9f9e-0db862f7916d" />
 
 ---
 
@@ -23,4 +25,4 @@ A modern, responsive chat application designed for developers to communicate, te
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/parth-dev-helper.git
+git clone https://github.com/your-username/Parth-js-dev-helper.git
